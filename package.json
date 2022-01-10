@@ -1,0 +1,23 @@
+{
+  "name": "ls-intro-to",
+  "version": "1.0.0",
+  "description": "These are my answers for Launch School's Introduction to Programming with JavaScript Book exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microcurse/ls-intro-to-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microcurse/ls-intro-to-js/issues"
+  },
+  "homepage": "https://github.com/microcurse/ls-intro-to-js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
