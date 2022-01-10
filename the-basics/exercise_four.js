@@ -1,0 +1,1 @@
+console.log('5' + 10); // logs '510' because of implicit coercion. It coerces the number 10 to be a string then concatenates them into a new string.
