@@ -1,2 +1,2 @@
-console.log('12' < '9') // evaluates to false
+console.log('12' < '9') // evaluates to true
 
