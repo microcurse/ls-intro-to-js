@@ -16,3 +16,11 @@ console.log(checkForThree(numbers2));
 console.log(checkForThree(numbers3));
 
 // Wow.. I forgot about the includes() method...
+
+function checkForThreeIncludes(arr) {
+  return arr.includes(3);
+}
+
+console.log(checkForThree(numbers1));
+console.log(checkForThree(numbers2));
+console.log(checkForThree(numbers3));
