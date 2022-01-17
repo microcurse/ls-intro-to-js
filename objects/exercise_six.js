@@ -5,4 +5,4 @@ false // primitive
 foo // identifier
 function bar() { return "bar"; } // object
 undefined // primitive
-{ a: 1, b: 2 }  // object
+{ a: 1, b: 2 }  // objectg
