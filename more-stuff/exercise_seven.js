@@ -1,0 +1,1 @@
+// Exception handling helps you test your code and throw errors since JavaScript "silently fails". Uses try/catch statement.

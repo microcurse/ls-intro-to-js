@@ -1,0 +1,1 @@
+// The error message in the stack trace tells me that there greeting doesn't exist or is unreachable by the console.log method.
