@@ -1,1 +1,1 @@
-// The error message in the stack trace tells me that there greeting doesn't exist or is unreachable by the console.log method.
+// The error message in the stack trace tells me that there's an error on line 4 of the exercise.2js file. console.log is trying to log greeting but it either doesn't exist or is unreachable.
